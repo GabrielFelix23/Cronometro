@@ -1,2 +1,2 @@
-# Cronometro
- Projeto cronometro com React Native.
+# MeusEstudosReactNative
+ Curso de React Native de: Sujeito Programador.
